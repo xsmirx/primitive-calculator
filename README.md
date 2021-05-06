@@ -1,3 +1,3 @@
 # Basic calc
 
-_It is a learning proect_
+_It's a learning project_
